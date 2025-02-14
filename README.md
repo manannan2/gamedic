@@ -1,2 +1,2 @@
 # gamedic
-github練習用　
+github pages練習用　
